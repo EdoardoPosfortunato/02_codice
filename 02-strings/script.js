@@ -3,7 +3,6 @@
 // Stampa il valore di nome nella console.
 
 const name = 'Edoardo'; //variabile name
-
 console.log(name); //"print"
 
 // 2. Tipi primitivi
@@ -12,8 +11,13 @@ console.log(name); //"print"
 // Stampa tutti i valori nella console.
 
 const number = 27;
+console.log(number);
+
 const text = 'Ciao Ciao';
+console.log(text);
+
 const bool = false;
+console.log(bool);
 
 
 // console.log(typeof number); //check type
